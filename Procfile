@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n "Rowe Bot"
+web: bin/hubot -a campfire -n Hubot
